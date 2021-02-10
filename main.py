@@ -13,7 +13,7 @@ FILE_TYPE = '.gpx'  # '.gpx', '.tcx' or '.csv'
 
 SPORT_NAMES = {
     # Endomondo
-    'SKIING_CROSS_COUNTRY':	'NordicSki',
+    'SKIING_CROSS_COUNTRY': 'NordicSki',
     'RUNNING': 'Run',
     'ORIENTEERING': 'Run',
     'WALKING': 'Walk',
