@@ -1,6 +1,5 @@
 # Strava_data_transfer
-## Transferring workouts from ".gpx", ".tcx", "json" or ".csv" files to Strava.<br>
-<br>
+#### Transferring workouts from ".gpx", ".tcx", "json" or ".csv" files to Strava.<br>
 
 While transferring my workouts from Endomondo and Runkeeper to Strava, I am facing problems, so I decided to create my own program.
 First, you need to edit in accordance with your tasks, and separately run parsing_<type_of_file>.py to examine the files that need to be uploaded to the Strava.
